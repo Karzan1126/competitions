@@ -286,8 +286,7 @@ h1 {
 }
 
 .iris {
-  display: justify;
-  align-self: center;
+  display: flex;
 }
 
 .iris .t-1 {
