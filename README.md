@@ -1,1 +1,1 @@
-# competitions
+# Voyager Competitions Webpage
