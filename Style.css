@@ -274,7 +274,7 @@ body {
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 2em;
 }
 
 .navnav {
@@ -292,7 +292,15 @@ h1 {
 .t-1,
 .t-2,
 .t-3,
-.t-4 {
+.t-4,
+.t5 ,
+.t6 ,
+.t7,
+.t8,
+.t9,
+.t10,
+.t11,
+.t12 {
   opacity: 0;
 }
 
@@ -351,6 +359,125 @@ h1 {
     opacity: 1;
   }
 }
+
+.iris .t-5 {
+    animation: t-5 1s forwards 2s linear;
+  }
+  
+  @keyframes t-5 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-6 {
+    animation: t-6 1s forwards 2.5s linear;
+  }
+  
+  @keyframes t-6 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-7 {
+    animation: t-7 1s forwards 3s linear;
+  }
+  
+  @keyframes t-7 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-8 {
+    animation: t-8 1s forwards 3.5s linear;
+  }
+  
+  @keyframes t-8 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-9 {
+    animation: t-9 1s forwards 4s linear;
+  }
+  
+  @keyframes t-9 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-10 {
+    animation: t-10 1s forwards 4.5s linear;
+  }
+  
+  @keyframes t-10 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-11{
+    animation: t-11 1s forwards 5s linear;
+  }
+  
+  @keyframes t-11 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+  .iris .t-12{
+    animation: t-12 1s forwards 5.5s linear;
+  }
+  
+  @keyframes t-12 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
 
 .header-text {
   font-size: 2.5rem;
@@ -580,7 +707,7 @@ h1 {
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 2em;
 }
 
 .navnav {
@@ -598,7 +725,15 @@ h1 {
 .t-1,
 .t-2,
 .t-3,
-.t-4 {
+.t-4,
+.t5,
+.t6,
+.t7,
+.t8,
+.t9,
+.t10,
+.t11,
+.t12 {
   opacity: 0;
 }
 
@@ -657,6 +792,126 @@ h1 {
     opacity: 1;
   }
 }
+
+.iris .t-5 {
+    animation: t-5 1s forwards 2s linear;
+  }
+  
+  @keyframes t-5 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-6 {
+    animation: t-6 1s forwards 2.5s linear;
+  }
+  
+  @keyframes t-6 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-7 {
+    animation: t-7 1s forwards 3s linear;
+  }
+  
+  @keyframes t-7 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-8 {
+    animation: t-8 1s forwards 3.5s linear;
+  }
+  
+  @keyframes t-8 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-9 {
+    animation: t-9 1s forwards 4s linear;
+  }
+  
+  @keyframes t-9 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-10 {
+    animation: t-10 1s forwards 4.5s linear;
+  }
+  
+  @keyframes t-10 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .iris .t-11{
+    animation: t-11 1s forwards 5s linear;
+  }
+  
+  @keyframes t-11 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+  .iris .t-12{
+    animation: t-12 1s forwards 5.5s linear;
+  }
+  
+  @keyframes t-12 {
+    0% {
+      transform: rotate(0) translateX(-40px);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0) translateX(0);
+      opacity: 1;
+    }
+  }
+
 
 .header-text {
   font-size: 2.5rem;
