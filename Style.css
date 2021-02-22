@@ -21,7 +21,7 @@
 }
 .outer-div, .inner-div {
     height: 450px;
-    max-width: 75%;
+    max-width: 100%;
     margin: 0 auto;
     position: relative;
 }
@@ -105,7 +105,8 @@
     top: -350px;
     margin: 0 auto;
     font-family: "Montserrat";
-    font-size: 500%;
+    font-size: 5rem;
+    
     backface-visibility: hidden;
 }
 .front__text .front__text-header {
