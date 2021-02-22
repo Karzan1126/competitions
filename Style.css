@@ -25,6 +25,9 @@
     max-width: 50rem;
     margin: 0 auto;
     position: relative;
+   
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
 }
 .outer-div {
     perspective: 900px;
@@ -117,6 +120,7 @@
     vertical-align: middle;
     font-size: 100%;
     color: rgba(72, 253, 0, 0.822);
+    text-align: center;
 }
 .front__text .front__text-para {
     position: relative;
@@ -253,7 +257,7 @@ body {
   background-attachment: fixed;
 }
 
-.container1 {
+#container1 {
   color: white;
   text-align: center;
   z-index: 1;
@@ -686,7 +690,7 @@ h1 {
   background-attachment: fixed;
 }
 
-.container1 {
+#container1 {
   color: white;
   text-align: center;
   z-index: 1;
