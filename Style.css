@@ -105,14 +105,14 @@
     top: -350px;
     margin: 0 auto;
     font-family: "Montserrat";
-    font-size: 100px;
+    font-size: 500%;
     backface-visibility: hidden;
 }
 .front__text .front__text-header {
     font-weight: 700;
     font-family: "Serif";
     vertical-align: middle;
-    font-size: 100px;
+    font-size: 100%;
     color: rgba(72, 253, 0, 0.822);
 }
 .front__text .front__text-para {
