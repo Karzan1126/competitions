@@ -214,3 +214,12 @@
           font-size: 90%;   
          }
     }  
+    .footer-icon{
+        position: relative;
+    top: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    opacity: 1;
+    color: rgb(255, 255, 255);
+  font-size:4rem;
+    }
