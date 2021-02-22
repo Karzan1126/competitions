@@ -21,7 +21,7 @@
 }
 .outer-div, .inner-div {
     height: 450px;
-    max-width: 100%;
+    max-width: 50rem;
     margin: 0 auto;
     position: relative;
 }
@@ -105,7 +105,8 @@
     top: -350px;
     margin: 0 auto;
     font-family: "Montserrat";
-    font-size: 2rem;
+  
+    font-size: 3rem;
     
     backface-visibility: hidden;
 }
@@ -210,6 +211,6 @@
 
 @media (max-width: 320px) {
     .element {
-          width: 90%;   
+          font-size: 90%;   
          }
     }  
